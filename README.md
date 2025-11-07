@@ -1,3 +1,4 @@
+
 <!-- 1. HEADER: Greeting & Animated Subtitle -->
 
 <h1 align="center">
@@ -11,21 +12,22 @@ Hi there, I'm Vandan Tank 👋
 </a>
 </p>
 
-<!-- 2. INTRODUCTION: A little about you. -->
+<!-- 2. INTRODUCTION: This is your updated intro! -->
 
 <p align="center">
-I'm a [Your Role/Title] based in [Your Location]. I'm passionate about Data Science, Machine Learning, and Time Series Analysis.
+I'm a Student pursuing B.Tech in Computer Science Engineering from SRM Institute of Science and Technology.
 
 
 
 
 
+I'm passionate about Data Science, Machine Learning, and Artificial Intelligence.
 </p>
 
 <p align="center">
 <!-- Edit these to fit you! -->
 
-🔭 I’m currently working on <strong>[Your Current Project]</strong>.
+🔭 I’m currently working on <strong>Coursistant</strong>.
 
 <!-- 3. SOCIALS: Links to your other platforms. -->
 
@@ -35,13 +37,12 @@ I'm a [Your Role/Title] based in [Your Location]. I'm passionate about Data Scie
 <a href="https://www.google.com/search?q=https://linkedin.com/in/vandantank" target="blank">
 <img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="My LinkedIn" />
 </a>
-<!--
-Add/remove other social links as needed.
-Example:
-<a href="https://twitter.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="My Twitter" />
+<a href="https://www.google.com/search?q=https://www.kaggle.com/vandanTank07" target="blank">
+<img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3Dkaggle%26logoColor%3Dwhite" alt="My Kaggle Profile" />
 </a>
--->
+<a href="https://www.google.com/search?q=https://huggingface.co/VandanTank" target="blank">
+<img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Hugging_Face-FFD21E%3Fstyle%3Dfor-the-badge%26logo%3Dhuggingface%26logoColor%3Dblack" alt="My Hugging Face Profile" />
+</a>
 </p>
 
 <!-- 4. SKILLS: Your tech stack. -->
@@ -55,7 +56,7 @@ Example:
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas"/>
 </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<a href="httpsSection-learn.org/" target="_blank" rel="noreferrer">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit_learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-learn"/>
 </a>
 <a href="https://xgboost.ai/" target="_blank" rel="noreferrer">
@@ -93,10 +94,10 @@ Find themes here: https://www.google.com/search?q=https://github.com/anuraghazra
 <h3 align="center">My Pinned Projects:</h3>
 <p align="center">
 <!--
-NOTE: The project cards pull their description from your repo's "About" section.
-Make sure you've added the descriptions you gave me to each repo's settings on GitHub!
+CRITICAL: Make sure you add a description to the "About" section
+of these repositories on GitHub, or these cards will not load correctly.
 -->
-<a href="https://www.google.com/search?q=https://github.com/VandanTank/inflation-forecasting">
+<a href="httpssection://https://www.google.com/search?q=github.com/VandanTank/inflation-forecasting">
 <img align="center" width="350px" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DVandanTank%26repo%3Dinflation-forecasting%26theme%3Ddracula" />
 </a>
 <a href="https://www.google.com/search?q=https://github.com/VandanTank/news-summarization-transformers">
