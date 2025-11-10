@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi there, I'm Vandan Tank 👋
+Hi there, I'm Vandan Tank. 👋
 
 <!-- Typing SVG - Simplified -->
 
