@@ -10,7 +10,7 @@
 </p>
 <hr/>
 <p align="center">
-    <img height= "160" src="https://github-readme-stats.vercel.app/api?username=VandanTank&theme=tokyonight&show_icons=true&include_all_commits=true" alt="VandanTank"/>
+    <img height= "160" src="https://github-readme-stats.vercel.app/api?username=VandanTank&theme=tokyonight&show_icons=true" alt="VandanTank"/>
   <img height= "160" src="https://github-readme-streak-stats.herokuapp.com?user=VandanTank&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="VandanTank"/>
 </p>
 <hr/>
@@ -74,7 +74,7 @@
 <div align="center">
   
     [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandantank)
-  [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vandantank_)
+source  [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vandantank_)
   [![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vandantank)
   [![image](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=Hugging%20Face&logoColor=black)](https://huggingface.co/vandantank)
 
