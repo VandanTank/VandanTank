@@ -10,8 +10,8 @@
 </p>
 <hr/>
 <p align="center">
-    <img height= "160" src="https://github-readme-stats.vercel.app/api?username=VandanTank&theme=tokyonight&show_icons=true&hide=stars,issues" alt="VandanTank"/>
-  <img height= "160" src="https://github-readme-streak-stats.herokuapp.com?user=VandanTank&theme=tokyonight&date_format=M%20j%[2C%20Y%5D" alt="VandanTank"/>
+    <img height= "160" src="https://github-readme-stats.vercel.app/api?username=VandanTank&theme=tokyonight&show_icons=true&hide=stars,issues&hide_rank=true" alt="VandanTank"/>
+  <img height= "160" src="https://github-readme-streak-stats.herokuapp.com?user=VandanTank&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="VandanTank"/>
 </p>
 <hr/>
 
