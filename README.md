@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Vandan Tank <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=BTech+Computer+Science+@+SRMIST;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Time+Series+Analysis;DS+%7C+ML+%7C+Time+Series"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=BTech+Computer+Science+@+SRMIST;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Artificial+Intelligence"></a>
 </p>
 <hr/>
-<h4 align="center">I'm a Student pursuing BTech in Computer Science Engineering from SRM Institute of Science and Technology. I'm passionate about Data Science, Machine Learning, and Time Series Analysis.</h4>
+<h4 align="center">I'm a Student pursuing BTech in Computer Science Engineering from SRM Institute of Science and Technology. I'm passionate about Data Science, Machine Learning, and Artificial Intelligence.</h4>
 <br>
 <p align="center"> 
     <a href="[YOUR_RESUME_LINK_HERE]"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
@@ -66,20 +66,31 @@
   </a>
 </p>
 <hr/>
+
 <p align="center">
-    <a href="https://github.com/VandanTank"><img src="https://activity-graph.herokuapp.com/graph?username=VandanTank&custom_title=Vandan%20Tank's%20Contribution%20Graph&bg_color=1a1b27&color=70a4fc&line=be91f2&point=4c4c54"/></a>
+  <a href="https://github.com/VandanTank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VandanTank&theme=github-dark&hide_border=true&area=true&line=9775c2&point=be91f2" />
+  </a>
 </p>
 <hr/>
-<h3 align="center">Connect with me</h3>
-<div align="center">
-  
-    [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandantank)
-* [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vandantank_)
-  [![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vandantank)
-  [![image](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=Hugging%20Face&logoColor=black)](https://huggingface.co/vandantank)
 
-</div>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.in/vandantank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/vandantank_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.kaggle.com/vandantank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://huggingface.co/vandantank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=Hugging%20Face&logoColor=black" alt="Hugging Face">
+  </a>
+</p>
 <hr/>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=VandanTank&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="VandanTank"/> 
 </p>
