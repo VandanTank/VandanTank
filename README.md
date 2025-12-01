@@ -13,6 +13,7 @@
 <br/>
 
 <p align="center">
+  <!-- 🔴 REPLACE THE LINK BELOW WITH YOUR ACTUAL RESUME URL 🔴 -->
   <a href="[YOUR_RESUME_LINK_HERE]" target="_blank">
     <img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
   </a>
@@ -20,15 +21,18 @@
 
 <hr/>
 
+<!-- STATS SECTION - CLEAN LINKS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VandanTank&theme=tokyonight&show_icons=true&hide=stars,issues&hide_rank=true" height="170" alt="VandanTank Stats" />
-  <img src="https://streak-stats.demolab.com?user=VandanTank&theme=tokyonight" height="170" alt="VandanTank Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VandanTank&theme=tokyonight&show_icons=true&hide=stars,issues&hide_rank=true" alt="VandanTank Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=VandanTank&theme=tokyonight" alt="VandanTank Streak" />
 </p>
 
 <hr/>
 
+<!-- TECH STACK SECTION -->
 <h3 align="center">Tech Stack</h3>
 <p align="center">
+  <!-- Row 1: Core DS/ML -->
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
@@ -37,6 +41,7 @@
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
   <br/>
   
+  <!-- Row 2: Viz & DB & Web -->
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%233776ab.svg?style=for-the-badge&logo=Seaborn&logoColor=white">
   <img alt="Power BI" src="https://img.shields.io/badge/-Power BI-F2C811?style=for-the-badge&logo=Power+BI&logoColor=white">
@@ -44,6 +49,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-646464?style=for-the-badge&logo=Flask&logoColor=white">
   <br/>
 
+  <!-- Row 3: Cloud & Tools -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-4f6578?style=for-the-badge&logo=GitHub&logoColor=white">
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google Cloud-4285F4?style=for-the-badge&logo=Google+Cloud&logoColor=white">
